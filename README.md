@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![hyunrrr's github stats](https://github-readme-stats.vercel.app/api?username=hyunrrr&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arrrrrrrrr)](https://solved.ac/arrrrrrrrr)
